@@ -1,6 +1,6 @@
 # Abstract Data Types (ADT)
 
-Essa é uma biblioteca brinquedo desenvolvida como companhia para meus estudos no curso de Algoritmos e Estruturas de Dados (MAC0122) no IME-USP. 
+Esse é um pacote brinquedo desenvolvido como companhia para meus estudos no curso de Algoritmos e Estruturas de Dados (MAC0122) no IME-USP. 
 
 O objetivo é aprender a implementar Tipos de Dados Abstrados (Abstract Data Types, ou ADT) em Python, utilizando o paradigma de Programação Orientada a Objetos (POO).
 
