@@ -4,7 +4,7 @@ Esse é um pacote brinquedo desenvolvido como companhia para meus estudos no cur
 
 O objetivo é aprender a implementar Tipos de Dados Abstrados (Abstract Data Types, ou ADT) em Python, utilizando o paradigma de Programação Orientada a Objetos (POO).
 
-Trata-se ainda de uma boa oportunidade para colocar aplicar boas práticas de programação e tratamento de exceções.
+Trata-se ainda de uma boa oportunidade para aplicar boas práticas de programação e tratamento de exceções.
 
 ### Tipos de Dados a serem implementados
 
