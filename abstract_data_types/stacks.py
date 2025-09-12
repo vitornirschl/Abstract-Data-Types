@@ -300,7 +300,7 @@ class FixedStack:
         string
             Abstract representation of the stack.
         '''
-        return "FixedStack()"
+        return f"FixedStack({self.max_length})"
 
     def __len__(self):
         '''
