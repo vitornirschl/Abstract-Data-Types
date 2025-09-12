@@ -662,13 +662,13 @@ class Fraction:
 
     def __neg__(self):
         '''
-        Returns the negative of the fraction.
+        Returns the negative of the fraction (unary subtraction operator).
         '''
         return Fraction(-1) * self
 
     def __pos__(self):
         '''
-        Returns the positive of the fraction.
+        Returns the positive of the fractio (unary sum operator).
         '''
         return self
 
